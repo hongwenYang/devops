@@ -1,6 +1,4 @@
 
-?
-assets/views.py,8\8\8853d4d7d95dd88ce304b076f19e586aac54918d
 J
 devops_backend/settings.py,e\3\e321aca3cfdf6cf283f608f4b56923fc867fe2d0
 @
@@ -8,3 +6,33 @@ J
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+K
+assets_management/models.py,f\3\f38fcca0b952d132c3cc67a5b85e6e11cf5ee1aa
+I
+user_management/models.py,8\6\8640db12df11b7a8998495943c1f514306f6cfd1
+J
+assets_management/views.py,0\2\02fdf3e8fb07c6df5f94f4202c14d34ffde52ae3
+I
+assets_management/urls.py,8\d\8d80ab2f149048bd1e00dbee5e6769339590fa72
+F
+devops_backend/urls.py,1\7\17ec3f9710e6f8a8388d09a27d5b9b74c4c361c2
+P
+ assets_management/serializers.py,d\d\dd27081033a8a1835ec65eb84ce72e10244617a6
+N
+user_management/serializers.py,4\c\4c456dd1c4433c6ac2ba1e4c232db91199966665
+H
+user_management/views.py,0\9\096d906c6152bf45f260063d31a99d46dd58cd8b
+G
+user_management/urls.py,7\f\7fef782c2fcc4a50211dd0b5c32b521528d81cc1
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+d
+4devops_env/Lib/site-packages/django/conf/__init__.py,d\4\d49d99d05b7aedcd56316ee2a7b5833e4c2e58c5
+l
+<devops_env/Lib/site-packages/django/contrib/auth/__init__.py,1\2\123e3fa02c667d5d2afa1ef370544e6192c2839c
+@
+utls/__init__.py,0\e\0eb2fad50fa464df066e2f9b6dc12cb7fb3e3105
+B
+utls/pagination.py,b\d\bd340d05acde3cd33162df5a1901cc0af282fe3b
+g
+7devops_env/Lib/site-packages/rest_framework/generics.py,3\0\30b8251bdf28a83ea76749cb770c8f6990811ed4
