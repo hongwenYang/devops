@@ -1,0 +1,894 @@
+[
+  {
+    "instance_id": "开发nginx",
+    "public_ip": "47.108.25.84",
+    "public_port": 22,
+    "private_ip": "172.17.0.81",
+    "private_port": 22,
+    "username": "root",
+    "password": "8EiniHE3AE*iAxUhBwNRjUwJ",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "nginx"
+    ]
+  },
+  {
+    "instance_id": "生产中间件",
+    "public_ip": "47.108.229.184",
+    "public_port": 22,
+    "private_ip": "172.17.0.104",
+    "private_port": 22,
+    "username": "root",
+    "password": "I6TqHzP1Jq^YnYU!P!yfO7Im",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "中间件"
+    ]
+  },
+  {
+    "instance_id": "devops",
+    "public_ip": "47.108.156.124",
+    "public_port": 22,
+    "private_ip": "172.17.0.104",
+    "private_port": 22,
+    "username": "root",
+    "password": "p6DAIzVurmdamT8t",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "devops"
+    ]
+  },
+  {
+    "instance_id": "clickhouse",
+    "public_ip": "47.108.154.197",
+    "public_port": 22,
+    "private_ip": "172.17.0.105",
+    "private_port": 22,
+    "username": "root",
+    "password": "AF9JC9tL7cV2",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "clickhouse"
+    ]
+  },
+  {
+    "instance_id": "连锁ERP&海翔-四川",
+    "public_ip": "47.108.185.13",
+    "public_port": 22,
+    "private_ip": "172.17.0.106",
+    "private_port": 22,
+    "username": "root",
+    "password": "9J0rlL9Viaov^JTRgT1OpBz4",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "ERP"
+    ]
+  },
+  {
+    "instance_id": "新疆连锁ERP",
+    "public_ip": "47.109.129.94",
+    "public_port": 22,
+    "private_ip": "172.17.0.107",
+    "private_port": 22,
+    "username": "root",
+    "password": "UJtT*Pv8o9Nm9AoE0ReiQp5a",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "ERP"
+    ]
+  },
+  {
+    "instance_id": "生产nginx",
+    "public_ip": "47.108.62.76",
+    "public_port": 22,
+    "private_ip": "172.17.0.108",
+    "private_port": 22,
+    "username": "root",
+    "password": "V^wpNUv8^YOeXJhCv3xY575b",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "nginx"
+    ]
+  },
+  {
+    "instance_id": "四川聚之家",
+    "public_ip": "8.137.88.141",
+    "public_port": 22,
+    "private_ip": "172.17.0.109",
+    "private_port": 22,
+    "username": "root",
+    "password": "dp6rF1ky",
+    "access_type": [
+      "public",
+      "private"
+    ],
+    "services": [
+      "聚之家"
+    ]
+  },
+  {
+    "instance_id": "k8s-master",
+    "public_ip": "192.168.1.30",
+    "public_port": 21321,
+    "private_ip": "192.168.1.30",
+    "private_port": 21321,
+    "username": "root",
+    "password": "FwMQhMy!9bwTlNDhRk9p",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-master"
+    ]
+  },
+  {
+    "instance_id": "k8s-worker1",
+    "public_ip": "192.168.1.31",
+    "public_port": 23890,
+    "private_ip": "192.168.1.31",
+    "private_port": 23890,
+    "username": "root",
+    "password": "VFKFfi!V8Xemq2OMkHXH",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-worker"
+    ]
+  },
+  {
+    "instance_id": "k8s-worker2",
+    "public_ip": "192.168.1.32",
+    "public_port": 23361,
+    "private_ip": "192.168.1.32",
+    "private_port": 23361,
+    "username": "root",
+    "password": "Jm&DhCUVs48pVvK7h!OW",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-worker"
+    ]
+  },
+  {
+    "instance_id": "k8s-worker6",
+    "public_ip": "192.168.1.194",
+    "public_port": 22,
+    "private_ip": "192.168.1.194",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-worker"
+    ],
+    "data_paths": [
+      "/data"
+    ]
+  },
+  {
+    "instance_id": "k8s-worker7",
+    "public_ip": "192.168.1.37",
+    "public_port": 22,
+    "private_ip": "192.168.1.37",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-worker"
+    ],
+    "data_paths": [
+      "/data"
+    ]
+  },
+  {
+    "instance_id": "k8s-worker8",
+    "public_ip": "192.168.1.201",
+    "public_port": 22,
+    "private_ip": "192.168.1.201",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s-worker"
+    ],
+    "data_paths": [
+      "/data"
+    ]
+  },
+  {
+    "instance_id": "数据库备份服务器",
+    "public_ip": "192.168.1.57",
+    "public_port": 23267,
+    "private_ip": "192.168.1.57",
+    "private_port": 23267,
+    "username": "root",
+    "password": "zzg8m7gz8m%%uk9nH7za",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据库备份"
+    ],
+    "data_paths": [
+      "/data/",
+      "/opt/"
+    ]
+  },
+  {
+    "instance_id": "testing",
+    "public_ip": "192.168.1.72",
+    "public_port": 24223,
+    "private_ip": "192.168.1.72",
+    "private_port": 24223,
+    "username": "root",
+    "password": "UsIXitF0OH*xSDLmA&%!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "testing"
+    ],
+    "data_paths": [
+      "/opt/"
+    ]
+  },
+  {
+    "instance_id": "kuboard-k8s多集群管理",
+    "public_ip": "192.168.1.79",
+    "public_port": 20632,
+    "private_ip": "192.168.1.79",
+    "private_port": 20632,
+    "username": "root",
+    "password": "Qvqc!J%101ZwM3Ph8^Jd",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "k8s管理"
+    ],
+    "data_paths": [
+      "/opt/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.55-nginx反向代理",
+    "public_ip": "192.168.1.55",
+    "public_port": 24243,
+    "private_ip": "192.168.1.55",
+    "private_port": 24243,
+    "username": "root",
+    "password": "VIGRweNXKrDPLghwk4P2",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "nginx"
+    ],
+    "config_paths": [
+      "/etc/nginx/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.190",
+    "public_ip": "192.168.1.190",
+    "public_port": 22,
+    "private_ip": "192.168.1.190",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/data"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.77",
+    "public_ip": "192.168.1.77",
+    "public_port": 21444,
+    "private_ip": "192.168.1.77",
+    "private_port": 21444,
+    "username": "root",
+    "password": "A6$qoEJe8p2V0!PaqHy7",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/opt/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.74",
+    "public_ip": "192.168.1.74",
+    "public_port": 21789,
+    "private_ip": "192.168.1.74",
+    "private_port": 21789,
+    "username": "root",
+    "password": "uEBhkt0!vl!geqZJC2Jy",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/data/",
+      "/opt/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.122",
+    "public_ip": "192.168.1.122",
+    "public_port": 21469,
+    "private_ip": "192.168.1.122",
+    "private_port": 21469,
+    "username": "root",
+    "password": "$!j2VIbMXZpYKNXCBm7i",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/home"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.195",
+    "public_ip": "192.168.1.195",
+    "public_port": 22,
+    "private_ip": "192.168.1.195",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/data"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.122",
+    "public_ip": "192.168.1.122",
+    "public_port": 21469,
+    "private_ip": "192.168.1.122",
+    "private_port": 21469,
+    "username": "root",
+    "password": "$!j2VIbMXZpYKNXCBm7i",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "数据"
+    ],
+    "data_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.35",
+    "public_ip": "192.168.1.35",
+    "public_port": 23283,
+    "private_ip": "192.168.1.35",
+    "private_port": 23283,
+    "username": "root",
+    "password": "s&dtt5qzmK91BH7eehNM",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.23",
+    "public_ip": "192.168.1.23",
+    "public_port": 23168,
+    "private_ip": "192.168.1.23",
+    "private_port": 23168,
+    "username": "root",
+    "password": "RHXqqsjqUBizX$j^IRlj",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.26",
+    "public_ip": "192.168.1.26",
+    "public_port": 22266,
+    "private_ip": "192.168.1.26",
+    "private_port": 22266,
+    "username": "root",
+    "password": "dtihiOFOJHX1W^Ao5JQf",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.24",
+    "public_ip": "192.168.1.24",
+    "public_port": 22554,
+    "private_ip": "192.168.1.24",
+    "private_port": 22554,
+    "username": "root",
+    "password": "^p1me^97EnQtIXWumEVz",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.28",
+    "public_ip": "192.168.1.28",
+    "public_port": 20266,
+    "private_ip": "192.168.1.28",
+    "private_port": 20266,
+    "username": "root",
+    "password": "5Hc6FpDOLpdrdF7yoOrc",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.22",
+    "public_ip": "192.168.1.22",
+    "public_port": 24918,
+    "private_ip": "192.168.1.22",
+    "private_port": 24918,
+    "username": "root",
+    "password": "GvmxoC^Vtkl7AWHxhK%Z",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.25",
+    "public_ip": "192.168.1.25",
+    "public_port": 22410,
+    "private_ip": "192.168.1.25",
+    "private_port": 22410,
+    "username": "root",
+    "password": "%jc4r86zV*Vj#0s#9BJe",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.29",
+    "public_ip": "192.168.1.29",
+    "public_port": 21313,
+    "private_ip": "192.168.1.29",
+    "private_port": 21313,
+    "username": "root",
+    "password": "e%Zbxoco^S9oPGp^lo6I",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.36",
+    "public_ip": "192.168.1.36",
+    "public_port": 22421,
+    "private_ip": "192.168.1.36",
+    "private_port": 22421,
+    "username": "root",
+    "password": "P4!v4Q$hrk496q!!G8G5",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.16",
+    "public_ip": "192.168.1.16",
+    "public_port": 23273,
+    "private_ip": "192.168.1.16",
+    "private_port": 23273,
+    "username": "root",
+    "password": "%KsnnNheoYnoRdm5yLdt",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.124",
+    "public_ip": "192.168.1.124",
+    "public_port": 24701,
+    "private_ip": "192.168.1.124",
+    "private_port": 24701,
+    "username": "root",
+    "password": "i#mu0nqoC3UsSndw$Nr8",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.18",
+    "public_ip": "192.168.1.18",
+    "public_port": 20179,
+    "private_ip": "192.168.1.18",
+    "private_port": 20179,
+    "username": "root",
+    "password": "q2i#%46NeIUSA2e1fSla",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.14",
+    "public_ip": "192.168.1.14",
+    "public_port": 22722,
+    "private_ip": "192.168.1.14",
+    "private_port": 22722,
+    "username": "root",
+    "password": "97VkEcqS936nM6Kbs0Wr",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.20",
+    "public_ip": "192.168.1.20",
+    "public_port": 23093,
+    "private_ip": "192.168.1.20",
+    "private_port": 23093,
+    "username": "root",
+    "password": "567pPynNPZHJFMryAn$W",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.19",
+    "public_ip": "192.168.1.19",
+    "public_port": 21501,
+    "private_ip": "192.168.1.19",
+    "private_port": 21501,
+    "username": "root",
+    "password": "zTSrGBCgd&Fv1q7cUXE8",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.191",
+    "public_ip": "192.168.1.191",
+    "public_port": 22,
+    "private_ip": "192.168.1.191",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.192",
+    "public_ip": "192.168.1.192",
+    "public_port": 22,
+    "private_ip": "192.168.1.192",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.193",
+    "public_ip": "192.168.1.193",
+    "public_port": 22,
+    "private_ip": "192.168.1.193",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.196",
+    "public_ip": "192.168.1.196",
+    "public_port": 22,
+    "private_ip": "192.168.1.196",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.197",
+    "public_ip": "192.168.1.197",
+    "public_port": 22,
+    "private_ip": "192.168.1.197",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.198",
+    "public_ip": "192.168.1.198",
+    "public_port": 22,
+    "private_ip": "192.168.1.198",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.199",
+    "public_ip": "192.168.1.199",
+    "public_port": 22,
+    "private_ip": "192.168.1.199",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  },
+  {
+    "instance_id": "192.168.1.200",
+    "public_ip": "192.168.1.200",
+    "public_port": 22,
+    "private_ip": "192.168.1.200",
+    "private_port": 22,
+    "username": "root",
+    "password": "Scjuchuang@2022!",
+    "access_type": [
+      "private"
+    ],
+    "services": [
+      "tomcat"
+    ],
+    "data_paths": [
+      "/opt/"
+    ],
+    "config_paths": [
+      "/home/"
+    ]
+  }
+]
